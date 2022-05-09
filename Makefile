@@ -1,2 +1,2 @@
 default:
-	gcc openssl.c -lssl -lcrypto -o https_h
+	gcc https_h.c -lssl -lcrypto -o https_h
